@@ -1,0 +1,94 @@
+body{
+    background-image: url("https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif");
+    background-blend-mode: soft-light;
+    background-attachment: fixed;
+    background-size: 250% 250%;
+    margin: 0;
+	padding: 0;
+}
+
+.titleV{
+    color: #d3c60f;
+    text-align: center;
+    font-style: oblique;
+}
+
+.h1v
+{
+    font-weight: bold;
+    font-size: 20px;
+    font-style: oblique;
+    color: #d3c60f;
+}
+.formVigenere{
+    font: 25px Arial, Helvetica, sans-serif;
+    max-width: 500px;
+    margin: 10px auto;
+    padding: 16px;
+}
+.textareaV
+{
+    font-size: 25px;
+    opacity: 0.9;
+    width: 100%;
+    height: 100px;
+    padding: 10px 25px;
+    box-sizing: border-box;
+    border: 2px solid #ffffff;
+    border-radius: 4px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    resize: none;
+}
+
+.textareaV:focus
+{
+    color: white;
+    font-weight: bolder;
+    width: 100%;
+    height: 100px;
+    padding: 2px 5px;
+    box-sizing: border-box;
+    border: 2px solid #ffffff;
+    border-radius: 4px;
+    resize: none;
+}
+
+.TextV
+{
+    font-weight: bold;
+    width: 100%;
+    height: 50px;
+    box-sizing: border-box;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 4px;
+    opacity: 0.8;
+}
+
+.ButtonV
+{
+    font-style: italic;
+    font-size: medium;
+    width: 100%;
+    background-color: #5f5f5fda;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.ButtonV:hover
+{
+width: 100%;
+    background-color: #3a3a3a;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
